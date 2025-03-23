@@ -1,9 +1,6 @@
 # Hi! It's my github page 📝
 
-I'm 
-
-<details>
-<summary>✍ I'm learning:</summary>
+✍ I'm learning:
 
 | Rank | Languages |
 |-----:|-----------|
@@ -11,8 +8,10 @@ I'm
 |     2| Python    |
 |     3| PostgreSQL|
 
-</details>
+
 
 ---
+
+
 > [!WARNING]
-> Still in development...
+> My profile still in development...
