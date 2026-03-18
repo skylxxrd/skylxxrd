@@ -6,9 +6,15 @@
 |-----:|-----------|
 |     1| C#        |
 |     2| Python    |
-|     3| PostgreSQL|
+|     3| Go        |
+|     4| JavaScript|
 
-
+Stack:
+- ASP.NET/Blazor
+- Docker
+- PostgreSQL/MS SQL Server
+- RabbitMQ
+- Redis
 
 ---
 
