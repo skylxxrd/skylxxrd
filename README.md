@@ -2,20 +2,23 @@
 
 ✍ I'm learning:
 
-| Rank | Languages |
+| Rank | Technologies |
 |-----:|-----------|
-|     1| C#        |
+|     1| C#/.NET    |
 |     2| Python    |
-|     3| Go        |
-|     4| JavaScript|
+|     3| VueJS     |
 
-Stack:
+Stack&Skills:
 - ASP.NET/Blazor
 - Docker
 - PostgreSQL/MS SQL Server
 - RabbitMQ
 - Redis
-
+- JS
+- Vue
+- Pinia
+- REST
+- 
 ---
 
 
